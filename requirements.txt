@@ -16,4 +16,5 @@ openai==2.23.0
 pydantic==2.12.5
 pypdf
 PyPDF2
+pdfplumber
 python-dotenv
