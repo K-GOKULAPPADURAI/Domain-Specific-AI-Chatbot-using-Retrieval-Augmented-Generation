@@ -1,0 +1,129 @@
+# =========================
+# Python Cache
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environment
+# =========================
+venv/
+env/
+ENV/
+.virtualenv/
+
+# Windows virtualenv folders
+Lib/
+Scripts/
+Include/
+
+# Virtualenv files
+pyvenv.cfg
+
+# =========================
+# Compiled Files
+# =========================
+*.so
+*.pyd
+*.dll
+*.exe
+*.o
+*.a
+*.gguf
+
+# =========================
+# Python Build Files
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# IDE Files
+# =========================
+
+# VS Code
+.vscode/
+.claude/
+share/
+
+# PyCharm
+.idea/
+
+# =========================
+# OS Files
+# =========================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.temp
+*.bak
+
+# =========================
+# Database Files
+# =========================
+*.db
+*.sqlite3
+
+# =========================
+# Model Files (Optional)
+# =========================
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# =========================
+# Images (Optional)
+# =========================
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# =========================
+# Videos (Optional)
+# =========================
+*.mp4
+*.avi
+*.mkv
+
+# =========================
+# Large Data
+# =========================
+data/
+datasets/
+
+# =========================
+# App Runtime Files
+# =========================
+uploads/
+faiss_index/
+models/
