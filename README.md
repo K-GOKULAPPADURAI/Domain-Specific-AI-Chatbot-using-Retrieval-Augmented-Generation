@@ -10,6 +10,23 @@ A full-stack Retrieval-Augmented Generation (RAG) chatbot that lets you upload d
 - Retrieves relevant chunks per user question.
 - Sends retrieved context to an OpenRouter-hosted LLM for final answers.
 
+## Demo
+
+<div align="center">
+    <p>
+        <img src="demo/opening%20the%20pic%20%281%29.jpeg" alt="Opening 1" width="300" />
+        <img src="demo/pic%20%282%29.jpeg" alt="Pic 2" width="300" />
+        <img src="demo/pic%20%283%29.jpeg" alt="Pic 3" width="300" />
+    </p>
+    <p>
+        <video src="demo/demo%20video.mp4" controls width="720">
+            Your browser does not support the video tag.
+        </video>
+    </p>
+</div>
+
+---
+
 ## Tech Stack
 
 - Frontend: React + Vite
