@@ -23,14 +23,14 @@ A full-stack Retrieval-Augmented Generation (RAG) chatbot that lets you upload d
 3️⃣ Demo Image 3  
 ![Demo 3](https://drive.google.com/uc?export=view&id=1pcv08aGAZnlaFcxytxh5DQ7UiypVTulk)
 
----
+----------
 
 ### Demo Video
 
 <video width="700" controls>
   <source src="https://drive.google.com/uc?export=download&id=1r79pV9XPgdEJVyjzvD4y5P9N2ZjT8nat" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
-
 ## Tech Stack
 
 - Frontend: React + Vite
@@ -161,4 +161,5 @@ Important config note:
 - Add authentication and per-user document isolation.
 - Persist vectors in a managed store (pgvector, Pinecone, Weaviate, etc.).
 - Add tests for `/upload`, `/chat`, and retrieval quality.
+
 
