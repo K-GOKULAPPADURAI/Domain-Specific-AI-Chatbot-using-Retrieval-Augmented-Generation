@@ -15,20 +15,20 @@ A full-stack Retrieval-Augmented Generation (RAG) chatbot that lets you upload d
 ### 🖼️ Demo Images
 
 #### 1️⃣ Demo Image 1
-![Demo 1](demo/pic%20(1).jpeg)
+![Demo 1](https://drive.google.com/file/d/188izYV_QOZ4LHtZ0CnVQf9-XEbVeMQ3q/view?usp=drive_link)
 
 #### 2️⃣ Demo Image 2
-![Demo 2](demo/pic%20(2).jpeg)
+![Demo 2](https://drive.google.com/file/d/1XzTg1IbzFxcEHVvs6OPgXOyiovwN_MkX/view?usp=drive_link)
 
 #### 3️⃣ Demo Image 3
-![Demo 3](demo/pic%20(3).jpeg)
+![Demo 3](https://drive.google.com/file/d/1pcv08aGAZnlaFcxytxh5DQ7UiypVTulk/view?usp=drive_link)
 
 ---
 
 ### 🎬 Demo Video
 
 <video width="700" controls>
-  <source src="demo/demo-video.mp4" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1r79pV9XPgdEJVyjzvD4y5P9N2ZjT8nat/view?usp=drive_link" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
